@@ -2,6 +2,12 @@
 
 Website Saver is a lightweight and easy-to-use Chrome Extension that allows users to save, organize, and manage their favorite websites in one place. Users can create custom categories, filter saved links, and delete unwanted entries easily.
 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/debf483e-1460-4731-851a-b3f01cdd5740" />
+<img width="609" height="921" alt="Screenshot 2026-01-17 234825" src="https://github.com/user-attachments/assets/ed8df0d3-5167-47b6-8994-aa3680daf174" />
+
+
 ---
 
 ## Features
